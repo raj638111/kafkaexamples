@@ -1,0 +1,5 @@
+
+scala <jar file name>
+
+./schema-registry-start -daemon ../etc/schema-registry/schema-registry.properties
+./schema-registry-start ../etc/schema-registry/schema-registry.properties
